@@ -1,4 +1,4 @@
-# 📊 Análisis de Datos - Airbnb New York City
+#  Análisis de Datos - Airbnb New York City
 
 ##  Fase 1: Comprensión del Problema
 
@@ -16,9 +16,12 @@ El dataset incluye información relevante como:
 
 El objetivo es analizar el comportamiento del mercado de alquileres turísticos y entender los factores que influyen en su dinámica.
 
+Puedes consultar el dataset aquí:  
+[Airbnb NYC Dataset](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata?resource=download)
+
 ---
 
-### 🎯 Problema de Análisis
+###  Problema de Análisis
 
 Identificar los factores que influyen en el precio, la disponibilidad y la demanda de los alojamientos en Nueva York, con el fin de generar insights que permitan mejorar la rentabilidad y competitividad de los anfitriones.
 
@@ -45,9 +48,6 @@ Identificar los factores que influyen en el precio, la disponibilidad y la deman
 * Independiente: `neighbourhood_group`
 * Dependiente: `price`
 
-**Test estadístico:** ANOVA
-
----
 
 ###  Hipótesis 2: Reviews vs Precio
 
